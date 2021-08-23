@@ -21,3 +21,26 @@ Simple Pomodoro App.
 ### 📸 Screenshot
 
 ![PomodoSite](https://i.imgur.com/KsVhlkb.png)
+
+## 02 - Todo List.
+
+Simple Todo List using localStorage.
+
+### ✨ Concepts Covered:
+
+✔️ &nbsp;&nbsp; useEffect <br />
+✔️ &nbsp;&nbsp; Props <br />
+✔️ &nbsp;&nbsp; Passing Props to components <br />
+✔️ &nbsp;&nbsp; Chakra UI setup with dark mode <br />
+✔️ &nbsp;&nbsp; LocalStorage <br />
+✔️ &nbsp;&nbsp; Custom Hooks <br />
+✔️ &nbsp;&nbsp; Conditional Rendering <br />
+✔️ &nbsp;&nbsp; Lazy State Initialization <br />
+
+### ▶️ Demo
+
+[Live Demo](https://todo-list-appx.netlify.app/)
+
+### 📸 Screenshot
+
+![todoapp](https://i.imgur.com/qzG3HYa.png)
