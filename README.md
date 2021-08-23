@@ -16,7 +16,7 @@ Simple Pomodoro App.
 
 ### ▶️ Demo
 
-[Live Demo](https://pom-doro-simple.netlify.app/)
+<a href="https://pom-doro-simple.netlify.app/" target="_blank">Live Demo</a>
 
 ### 📸 Screenshot
 
@@ -39,7 +39,7 @@ Simple Todo List using localStorage.
 
 ### ▶️ Demo
 
-[Live Demo](https://todo-list-appx.netlify.app/)
+<a href="https://todo-list-appx.netlify.app/" target="_blank">Live Demo</a>
 
 ### 📸 Screenshot
 
