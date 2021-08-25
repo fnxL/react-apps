@@ -1,4 +1,4 @@
-import { HStack, IconButton, Input } from '@chakra-ui/react';
+import { IconButton, Input } from '@chakra-ui/react';
 import { useState } from 'react';
 import { FaPlus } from 'react-icons/fa';
 import { useToast } from '@chakra-ui/react';

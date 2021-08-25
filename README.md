@@ -44,3 +44,23 @@ Simple Todo List using localStorage.
 ### 📸 Screenshot
 
 ![todoapp](https://i.imgur.com/qzG3HYa.png)
+
+## 03 - Shopping Cart
+
+### ✨ Concepts Covered:
+
+✔️ &nbsp;&nbsp; useReducer <br />
+✔️ &nbsp;&nbsp; useContext <br />
+✔️ &nbsp;&nbsp; Create Context<br />
+✔️ &nbsp;&nbsp; Tailwind CSS<br />
+✔️ &nbsp;&nbsp; Faker to generate random data <br />
+✔️ &nbsp;&nbsp; Search filter <br />
+✔️ &nbsp;&nbsp; React Router <br />
+
+### ▶️ Demo
+
+[Live Demo](https://shopx-cartx.netlify.app)
+
+![picture 1](https://i.imgur.com/DIzgaMs.jpg)
+
+![picture 2](https://i.imgur.com/dWOpJmH.png)
