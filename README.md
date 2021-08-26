@@ -61,6 +61,25 @@ Simple Todo List using localStorage.
 
 [Live Demo](https://shopx-cartx.netlify.app)
 
+### 📸 Screenshot
+
 ![picture 1](https://i.imgur.com/DIzgaMs.jpg)
 
 ![picture 2](https://i.imgur.com/dWOpJmH.png)
+
+## 04 - Next MCU Film
+
+Know what is the next MCU film and their release dates
+
+### ✨ Concepts Covered:
+
+✔️ &nbsp;&nbsp; useEffect <br />
+✔️ &nbsp;&nbsp; Using axios to fetch data from an API <br />
+
+### ▶️ Demo
+
+[Live Demo](https://nextmcufilm.netlify.app/)
+
+### 📸 Screenshot
+
+![picture 1](https://i.imgur.com/wjN5v2b.png)
